@@ -1,3 +1,3 @@
 # :bear:GomToon
-Webtoon site, practice
-Gom means a bear in Korean:korea:.
+Webtoon site, practice.   
+Gom means a bear in Korean:kr:.
