@@ -1,2 +1,2 @@
-# funToon
+# :bear:GomToon
 Webtoon site, practice
