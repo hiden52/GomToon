@@ -10,6 +10,13 @@ h1
 	line-height: 1.5;
 
 }
+h2
+{
+	font-family: 'Montserrat';
+	font-weight: 700;
+	font-size: 3rem;
+	line-height: 1.5;
+}
 
 #title
 {
@@ -91,4 +98,34 @@ h1
 .featText
 {
 	color: #8f8f8f;
+}
+
+/* Testimonials */
+
+#testimonials
+{
+	padding: 7% 15%;	
+	background-color: #ef8172;
+	color: #fff;
+	text-align: center;
+}
+
+.testimonialImage
+{
+	width: 10%;
+	border-radius: 100%;
+	margin: 20px;
+
+}
+
+#press
+{
+	background-color: #ef8172;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.pressImage
+{
+	width: 15%;
+	margin: 20px 20px 50px;
 }
